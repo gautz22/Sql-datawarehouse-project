@@ -9,12 +9,22 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
 <img width="1584" height="1056" alt="Screenshot 2026-02-23 235541" src="https://github.com/user-attachments/assets/f91cc9bc-e315-4a51-8ad7-ebfcca1dddff" />
-
+Power BI Dashboard – Interactive analytics
+<img width="2264" height="1276" alt="Screenshot 2026-03-10 022245" src="https://github.com/user-attachments/assets/ad06040c-b5b2-44a8-b2d2-5cdefe6cffcf" />
 
 1. BROZE LAYER: Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 3. Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+---
+📊 Dashboard Highlights
+
+• Total Sales, Orders, Customers, and Sales Growth KPIs
+• Monthly sales trend analysis
+• Product category performance
+• Geographic sales distribution
+• Customer demographic insights
+• Interactive filters and drill-through analysis
 ---
 📖 Project Overview
 This project involves:
