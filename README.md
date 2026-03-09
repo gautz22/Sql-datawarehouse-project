@@ -1,4 +1,4 @@
-DATA WAREHOUSE AND ANALYTICS PROJECT
+DATA WAREHOUSE AND ANALYTICS AND POWER BI Dashboard PROJECT
 
 Welcome to the Data Warehouse and Analytics Project repository! 🚀
 
