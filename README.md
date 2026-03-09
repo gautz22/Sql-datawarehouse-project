@@ -14,6 +14,11 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 ---
 Power BI Dashboard – Interactive analytics
 <img width="2264" height="1276" alt="Screenshot 2026-03-10 022245" src="https://github.com/user-attachments/assets/ad06040c-b5b2-44a8-b2d2-5cdefe6cffcf" />
+---
+DAX measures added
+<img width="2416" height="1310" alt="Screenshot 2026-03-10 021836" src="https://github.com/user-attachments/assets/d19d4389-bc6f-4ddf-828c-3bb73dd85ad9" />
+
+---
 
 1. BROZE LAYER: Bronze Layer: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
