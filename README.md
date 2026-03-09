@@ -11,7 +11,8 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 <img width="1940" height="1146" alt="Screenshot 2026-03-10 024114" src="https://github.com/user-attachments/assets/9d0b007a-015b-49e0-918b-874fe64b7126" />
 
 ---
-<img width="1536" height="1024" alt="Data_flow" src="https://github.com/user-attachments/assets/a929f0c6-2cc7-4c36-8656-46b1b97caeca" />
+<img width="1570" height="798" alt="Screenshot 2026-03-10 031451" src="https://github.com/user-attachments/assets/0145c2f1-a65b-4886-8f13-1d0522703949" />
+
 ---
 Power BI Dashboard – Interactive analytics
 <img width="2264" height="1276" alt="Screenshot 2026-03-10 022245" src="https://github.com/user-attachments/assets/ad06040c-b5b2-44a8-b2d2-5cdefe6cffcf" />
