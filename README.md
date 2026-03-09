@@ -9,6 +9,9 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
 
 <img width="1584" height="1056" alt="Screenshot 2026-02-23 235541" src="https://github.com/user-attachments/assets/f91cc9bc-e315-4a51-8ad7-ebfcca1dddff" />
+---
+<img width="1536" height="1024" alt="Data_flow" src="https://github.com/user-attachments/assets/a929f0c6-2cc7-4c36-8656-46b1b97caeca" />
+---
 Power BI Dashboard – Interactive analytics
 <img width="2264" height="1276" alt="Screenshot 2026-03-10 022245" src="https://github.com/user-attachments/assets/ad06040c-b5b2-44a8-b2d2-5cdefe6cffcf" />
 
@@ -63,7 +66,7 @@ BI: Analytics & Reporting (Data Analysis)
 Objective
 Develop SQL-based analytics to deliver detailed insights into:
 
-Customer Behavior
-Product Performance
-Sales Trends
+Customer Behavior.
+Product Performance.
+Sales Trends.
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
